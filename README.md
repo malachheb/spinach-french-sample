@@ -1,7 +1,7 @@
 Spinach => épinard
 =======
 
-Si vous êtes français, vous avez le droit d'écrire tes tests en français avec spinach.
+Si vous êtes français, vous avez le droit d'écrire vos tests en français avec spinach.
 
 ## Example
 ```
